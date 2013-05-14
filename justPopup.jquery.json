@@ -1,11 +1,11 @@
 {
     "name": "justPopup",
     "title": "jQuery justPopup",
-    "description": "a justPopup jQuery plugin.",
+    "description": "A light-weighted modal box is able to integrate with any web project.",
     "keywords": [
         "justPopup"
     ],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": {
         "name": "Yang Zhao",
         "url": "http://www.geniuscarrier.com/about/"
@@ -25,7 +25,7 @@
     ],
     "bugs": "https://github.com/geniuscarrier/justPopup/issues",
     "demo": "http://www.geniuscarrier.com/demo/justPopup/justPopup.html",
-    "homepage": "https://github.com/geniuscarrier/justPopup",
+    "homepage": "http://geniuscarrier.com/justpopup-a-jquery-plugin/",
     "docs": "https://github.com/geniuscarrier/justPopup",
     "download": "https://github.com/geniuscarrier/justPopup/archive/master.zip",
     "dependencies": {
