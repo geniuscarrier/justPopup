@@ -43,6 +43,21 @@ How to use:
 	});
 	```
 
+5. Config plugin with parameters
+
+    ```
+    $(function() {
+        $("#display").justPopup({
+                "color" : "#FFFFFF",
+                "background-color" : "#7EB5D6",
+                "width" : "500",
+                "height" : "300",
+                "overlayClose" : true,
+                "overlayOpacity" : 0.6
+            });
+    });    
+    ```
+    
 6. Have fun:-)
 
 
