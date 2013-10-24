@@ -70,7 +70,7 @@ Live Demo:
 -------------------------
 
 * [Homepage](http://www.geniuscarrier.com)
-* [Demo](http://www.geniuscarrier.com/demo/justPopup/justPopup.html)
+* [Demo](http://www.geniuscarrier.com/demo/justPopup/)
 
 License:
 -------------------------
