@@ -8,14 +8,14 @@ How to use:
 1. Include necessary JS files
 
 	```
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<script src="js/jquery.justPopup.min.js"></script>
+	<script src="jquery.js"></script>
+	<script src="jquery.justPopup.min.js"></script>
   	```
 
 2. Add justPopup CSS file. Please tweak it to serve your needs.
 
 	```
-	<link rel="stylesheet" href="css/style.css" />
+	<link rel="stylesheet" href="style.css" />
 	```
 
 3. Create the following HTML element
@@ -48,13 +48,13 @@ How to use:
     ```
     $(function() {
         $("#display").justPopup({
-                "color" : "#FFFFFF",
-                "background-color" : "#7EB5D6",
-                "width" : "500",
-                "height" : "300",
-                "overlayClose" : true,
-                "overlayOpacity" : 0.6
-            });
+            "color" : "#FFFFFF",
+            "background-color" : "#7EB5D6",
+            "width" : "500",
+            "height" : "300",
+            "overlayClose" : true,
+            "overlayOpacity" : 0.6
+        });
     });    
     ```
     
