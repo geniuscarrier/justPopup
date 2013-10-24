@@ -5,7 +5,7 @@
     "keywords": [
         "justPopup"
     ],
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": {
         "name": "Yang Zhao",
         "url": "http://www.geniuscarrier.com/about/"
@@ -24,7 +24,7 @@
         }
     ],
     "bugs": "https://github.com/geniuscarrier/justPopup/issues",
-    "demo": "http://www.geniuscarrier.com/demo/justPopup/justPopup.html",
+    "demo": "http://www.geniuscarrier.com/demo/justPopup/",
     "homepage": "http://geniuscarrier.com/justpopup-a-jquery-plugin/",
     "docs": "https://github.com/geniuscarrier/justPopup",
     "download": "https://github.com/geniuscarrier/justPopup/archive/master.zip",
