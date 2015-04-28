@@ -69,8 +69,8 @@ Compatibility:
 Live Demo:
 -------------------------
 
-* [Homepage](http://www.geniuscarrier.com)
-* [Demo](http://www.geniuscarrier.com/demo/justPopup/)
+* [Homepage](http://geniuscarrier.com)
+* [Demo](http://geniuscarrier.com/justpopup-a-jquery-plugin/)
 
 License:
 -------------------------
